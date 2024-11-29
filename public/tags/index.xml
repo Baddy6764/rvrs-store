@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Tags on Hackers Store</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Hackers Store</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Abd R</copyright>
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Rvrs</title>
+      <link>/tags/rvrs/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rvrs/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
